@@ -1,0 +1,8 @@
+{
+allAccounts{id acctId acctName amount bankDetails{bankId bankName ifsc branchCode}
+contacts{contactNumber email}
+addressDetails{addressLine1 addressLine2 city state country zip landmark}
+amount accountType status
+audit{createdBy createdDate modifiedBy modifiedDate}
+}
+}

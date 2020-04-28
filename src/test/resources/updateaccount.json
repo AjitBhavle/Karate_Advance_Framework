@@ -1,0 +1,33 @@
+{
+"acctId":"CITI36987",
+    "acctName" : "Test User 67890",
+    "bankDetails" : {
+        "bankId" : "1234",
+        "bankName" : "CITIBANK",
+        "ifsc" : "CITI0000005",
+        "branchCode" : "2342"
+    },
+    "contacts" : {
+        "contactNumber" : "8793439520",
+        "email" : "TestEmail67890@citi.com"
+    },
+    "addressDetails" : {
+        "addressLine1" : "Citi Bank Akola, Yamuna Tarang Complex, ",
+        "addressLine2" : "Kirti Nagar",
+        "landmark" : "Near Ramlata Business Centre",
+        "city" : "Akola",
+        "state" : "Maharastra",
+        "country" : "India",
+        "zip" : 444004
+    },
+    "amount" : 50009.956,
+    "accountType" : "saving",
+"status" : "true",
+
+    "audit" : {
+        "createdBy" : "Test Created by",
+        "createdDate" : "04/02/2020",
+        "modifiedBy" : "Ajit Bhavle",
+        "modifiedDate" : "04/02/2020"
+    }
+}
